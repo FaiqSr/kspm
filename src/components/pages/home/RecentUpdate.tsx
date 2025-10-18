@@ -55,7 +55,7 @@ const RecentUpdate = () => {
   if (isLoading) return <></>;
 
   return (
-    <section className="container mx-auto max-w-[1280px] px-5">
+    <section className="container mx-auto max-w-[1280px] px-5" id="update">
       <h2 className="text-center text-3xl my-10 font-semibold">Recent Update</h2>
 
       <section className="relative overflow-hidden">

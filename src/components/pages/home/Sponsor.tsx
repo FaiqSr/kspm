@@ -5,7 +5,7 @@ import React from "react";
 const Sponsor = () => {
   return (
     <>
-      <section className="min-h-svh">
+      <section className="min-h-svh" id="sponsor">
         <section className="container mx-auto my-20">
           <h2 className="text-center">Sponsored By</h2>
           <section className="flex items-center justify-center flex-col">
