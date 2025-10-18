@@ -1,6 +1,7 @@
 import React, { ReactNode } from "react";
 import "./globals.css";
 import NavBar from "@/components/ui/NavBar";
+import Footer from "@/components/ui/Footer";
 
 const RootLayout = ({ children }: { children: ReactNode }) => {
   return (
@@ -8,6 +9,7 @@ const RootLayout = ({ children }: { children: ReactNode }) => {
       <body>
         <NavBar />
         {children}
+        <Footer />
       </body>
     </html>
   );
