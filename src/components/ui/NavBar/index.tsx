@@ -7,7 +7,7 @@ import { CgMenuGridO } from "react-icons/cg";
 const NavBar = () => {
   return (
     <>
-      <header className="flex justify-between sm:justify-around py-2 fixed mx-auto w-full px-5 sm:px-0">
+      <header className="flex justify-between sm:justify-around py-2 fixed mx-auto w-full px-5 sm:px-0 z-50">
         <nav>
           <Link href="/" className="flex items-center gap-2 font-bold text-xl">
             <Image src={"/static/img/logo-kspm.png"} alt="KSPM" height={60} width={60} />
