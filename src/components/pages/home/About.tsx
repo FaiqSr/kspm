@@ -15,9 +15,10 @@ const About = () => {
               Sekolah Vokasi Institut Pertanian Bogor
             </h2>
             <p className="mt-2 font-thin">
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Incidunt soluta, tenetur et aliquid omnis maxime
-              ipsam repellendus saepe quasi error ex distinctio, voluptatibus quae natus, eligendi iste consequatur sed
-              expedita?
+              KSPM adalah singkatan dari Kelompok Studi Pasar Modal merupakan forum yang bekerja sama dengan Bursa Efek
+              Indonesia (BEI), perusahaan sekuritas, dan Sekolah Vokasi IPB untuk mengenalkan pasar modal sejak dini
+              kepada dunia akademisi. Selain itu, KSPM menyediakan real time informasi untuk belajar menganalisis
+              aktivitas perdagangan saham.
             </p>
           </section>
           <section>
