@@ -12,8 +12,8 @@ interface CardProps {
 const index = ({ data }: { data: CardProps }) => {
   return (
     <>
-      <article className="w-96 h-fit bg-slate-100 rounded-b-sm ">
-        <section className="relative w-96 h-100">
+      <article className="w-80 h-fit bg-slate-100 rounded-b-sm ">
+        <section className="relative w-80 h-100">
           <Image
             src={data.imageSrc}
             alt={data.iamgeAlt!}
